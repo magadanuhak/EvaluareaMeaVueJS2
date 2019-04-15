@@ -1,0 +1,7 @@
+{
+  "results": [
+    { "id": 1, "title": "Cel mai bun rezultat", "author": "Daniel" },
+    { "id": 2, "title": "Mai bun ca primul", "author": "Virginia" },
+    { "id": 3, "title": "Eminescu a fost o personalitate marcanta", "author": "Victor" }
+  ]
+}
